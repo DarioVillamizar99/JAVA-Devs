@@ -1,4 +1,4 @@
-# README: RestauranteManager
+#  RestauranteManager
 
 ¡Bienvenido a RestauranteManager! Un sistema de gestión de pedidos para restaurantes desarrollado en Java con una base de datos MySQL y PHPMyAdmin utilizando XAMPP. Este sistema está diseñado para llevar un control eficiente de las ventas, gestionar los platos, salas y mesas del restaurante, así como proporcionar análisis visuales de las ventas.
 
